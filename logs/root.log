@@ -1,0 +1,3 @@
+2019-07-02 21:54:28 [main] DEBUG fr.triedge.web.server.SBIWebServer - This is a debug line
+2019-07-02 21:54:28 [main] WARN  fr.triedge.web.server.SBIWebServer - This is a warn line
+2019-07-02 21:54:28 [main] ERROR fr.triedge.web.server.SBIWebServer - This is a error line
