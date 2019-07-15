@@ -10,6 +10,7 @@ public class Program {
 		SBIWebServer server = new SBIWebServer();
 		try {
 			server.init();
+			server.start();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

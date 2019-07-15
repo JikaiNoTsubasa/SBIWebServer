@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ServerConfig>
+    <DefaultFileIndex>index.html</DefaultFileIndex>
+    <DefaultFileNotFound>404.html</DefaultFileNotFound>
+    <Port>8888</Port>
     <ThreadPoolSize>20</ThreadPoolSize>
+    <WebApps>www</WebApps>
 </ServerConfig>
